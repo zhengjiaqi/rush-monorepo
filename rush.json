@@ -391,7 +391,7 @@
   "projects": [
     {
       "packageName": "landing",
-      "projectFolder": "packages/landing"
+      "projectFolder": "packages/landing2"
     },
     {
       "packageName": "@shared/components",
